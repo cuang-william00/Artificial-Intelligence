@@ -157,14 +157,6 @@ This can be similarly repeated with the ```inceptionVxOnFire-validation.py``` sc
 
 **To convert to to other frameworks** (such as PyTorch, MXNet, Keras, ...) from these tensorflow formats: - please see the extensive deep neural network model conversion tools offered by the [MMdnn](https://github.com/Microsoft/MMdnn) project.
 
----
-
-## Example video:
-[![Examples](https://github.com/tobybreckon/fire-detection-cnn/blob/master/images/slic-ex.png)](https://youtu.be/RcNj8aMDer4)
-Video Example - click image above to play.
-
----
-
 ## References:
 
 If you are making use of this work in any way (including our pre-trained models or datasets), _you must please_ reference the following articles in any report, publication, presentation, software release
